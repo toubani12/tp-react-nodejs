@@ -872,33 +872,33 @@ L'application est fonctionnelle et extensible. Des améliorations futures pourra
 ## 📸 Annexe - Captures d'écran (Placeholders)
 
 ### **Figure 1: Page d'accueil - Liste des utilisateurs**
-```
+
 <img width="1512" height="982" alt="Screenshot 2026-05-31 at 00 59 13" src="https://github.com/user-attachments/assets/dcfeb6b9-a2ba-4e11-859f-39e398cf486d" />
 
-```
+
 
 ### **Figure 2: Modal de création d'utilisateur**
-```
+
 <img width="1512" height="982" alt="Screenshot 2026-05-31 at 01 00 15" src="https://github.com/user-attachments/assets/0a2bc3bc-7e0d-4d7b-a0ce-d44c6ce75d5b" />
 
-```
+
 
 ### **Figure 3: Modal de modification d'utilisateur**
-```
+
 <img width="1512" height="982" alt="Screenshot 2026-05-31 at 01 00 23" src="https://github.com/user-attachments/assets/e314db71-6ba3-41e1-9797-17e3e4db6b1d" />
 
-```
+
 
 ### **Figure 4: Modal de confirmation de suppression**
-```
+
 <img width="1512" height="982" alt="Screenshot 2026-05-31 at 01 00 33" src="https://github.com/user-attachments/assets/61113523-2a36-4dd2-bfa4-9b6310972074" />
 
-```
+
 
 ### **Figure 5: Console serveur (Démarrage)**
-```
+
 <img width="773" height="250" alt="Screenshot 2026-05-31 at 00 56 58" src="https://github.com/user-attachments/assets/45675ba7-00c0-477c-accb-f3b42dccfebc" />
 
-```
+
 
 
