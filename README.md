@@ -869,7 +869,7 @@ L'application est fonctionnelle et extensible. Des améliorations futures pourra
 
 ---
 
-## 📸 Annexe - Captures d'écran (Placeholders)
+## 📸 Annexe - Captures d'écran 
 
 ### **Figure 1: Page d'accueil - Liste des utilisateurs**
 
